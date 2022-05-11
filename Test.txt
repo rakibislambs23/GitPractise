@@ -4,4 +4,5 @@ I am a SWE.
 I am woring with ASP.NET.
 Using MS SQL Server for RDBMS.
 Using AngularJS as frontend.
-I know HTML, CSS, JavaScript. 
+I know HTML, CSS, JavaScript.
+The logo is aligned centered.
